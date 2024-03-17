@@ -1,1 +1,0 @@
-Learning backend from scratch by building project
